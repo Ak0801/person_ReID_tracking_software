@@ -32,6 +32,37 @@ The system maintains consistent **Global IDs (GIDs)** across different frames an
 
 ---
 
+## 🧠 Models Used
+
+- **YOLO11**: State-of-the-art object detection model  
+- **OSNet (via torchreid)**: Lightweight deep learning model (osnet_x1_0_msmt17) trained for re-identification  
+- **Deep SORT**: Tracking algorithm extended with appearance features  
+
+---
+
+## 🧪 ID Matching Logic
+
+- Global IDs (GIDs) are matched using both **cosine similarity** and **HSV histogram correlation**  
+- **Thresholds** are adjustable to tune detection precision  
+- Re-identification improves over time with **periodic embedding updates** from multiple angles  
+- Unknowns are labeled as `unk` and tracked independently until confident matches occur  
+
+---
+
+## 🎯 Applications
+
+- **Multi-camera surveillance systems**  
+- **Smart city pedestrian analytics**  
+- **Security monitoring & forensic analysis**  
+- **Video analytics research and benchmarking**
+
+---
+
+## 📬 Contact
+
+For queries, feedback, or collaborations, please [open an issue](https://github.com/yourusername/your-repo/issues) or connect via GitHub!
+
+
 ## 🛠 Requirements
 
 ```bash
