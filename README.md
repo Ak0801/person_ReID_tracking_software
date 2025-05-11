@@ -60,7 +60,7 @@ The system maintains consistent **Global IDs (GIDs)** across different frames an
 
 ## 📬 Contact
 
-For queries, feedback, or collaborations, please [open an issue](https://github.com/yourusername/your-repo/issues) or connect via GitHub!
+For queries, feedback, or collaborations, please [open an issue](https://github.com/Ak0801/person_ReID_tracking_software/issues) or connect via GitHub!
 
 
 ## 🛠 Requirements
