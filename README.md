@@ -45,7 +45,7 @@ The system maintains consistent **Global IDs (GIDs)** across different frames an
 ## 🧠 Models Used
 
 - **YOLO11**: State-of-the-art object detection model  
-- **OSNet (via torchreid)**: Lightweight deep learning model (osnet_x1_0_msmt17) trained for re-identification  
+- **OSNet (via torchreid)**: Lightweight deep learning model [osnet_x1_0_msmt17](models/) trained for re-identification  
 - **Deep SORT**: Tracking algorithm extended with appearance features  
 
 ---
