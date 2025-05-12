@@ -37,7 +37,7 @@ The system maintains consistent **Global IDs (GIDs)** across different frames an
 </p>
  
 - **CSV Reports:** [Global ID Tracking](output/csv_files/global_id_tracking.csv), [Similarity Report](output/csv_files/similarity_report.csv), Unknown Suggestions
-- **Similarity Histograms:** [Cosine Histogram](output/graphs/), [Histogram Similarity](graphs/)
+- **Similarity Histograms:** [Cosine Histogram](output/graphs/), [Histogram Similarity](output/graphs/)
 
 
 ---
