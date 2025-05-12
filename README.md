@@ -36,7 +36,7 @@ The system maintains consistent **Global IDs (GIDs)** across different frames an
   <img src="gifs/Video_4_gif.gif" width="45%" />
 </p>
  
-- **CSV Reports:** [Global ID Tracking](output/csv_files/global_id_tracking.csv), [Similarity Report](output/csv_files/similarity_report.csv), Unknown Suggestions
+- **CSV Reports:** [Global ID Tracking](output/csv_files/global_id_tracking.csv), [Similarity Report](output/csv_files/similarity_report.csv)
 - **Similarity Histograms:** [Cosine Histogram](output/graphs/), [Histogram Similarity](output/graphs/)
 
 
