@@ -25,7 +25,7 @@ deep_sort = DeepSort(
     override_track_class=None,
     embedder="torchreid",
     embedder_model_name="osnet_x1_0",
-    embedder_wts="models\osnet_x1_0_msmt17.pth",
+    embedder_wts="models/osnet_x1_0_msmt17.pth",
     half=True,
     bgr=True,
 )
