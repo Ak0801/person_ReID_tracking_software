@@ -28,12 +28,12 @@ The system maintains consistent **Global IDs (GIDs)** across different frames an
 
 - **Tracked Video:** Bounding boxes with consistent GIDs and distinct colors
 <p align="center">
-  <img src="Video_1_gif.gif" width="45%" />
-  <img src="Video_2_gif.gif" width="45%" />
+  <img src="gifs/Video_1_gif.gif" width="45%" />
+  <img src="gifs/Video_2_gif.gif" width="45%" />
 </p>
 <p align="center">
-  <img src="Video_3_gif.gif" width="45%" />
-  <img src="Video_4_gif.gif" width="45%" />
+  <img src="gifs/Video_3_gif.gif" width="45%" />
+  <img src="gifs/Video_4_gif.gif" width="45%" />
 </p>
  
 - **CSV Reports:** Global tracking, similarity stats, and unknown suggestions  
