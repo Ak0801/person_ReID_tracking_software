@@ -26,7 +26,16 @@ The system maintains consistent **Global IDs (GIDs)** across different frames an
 
 ## 📊 Sample Outputs
 
-- **Tracked Video:** Bounding boxes with consistent GIDs and distinct colors  
+- **Tracked Video:** Bounding boxes with consistent GIDs and distinct colors
+<p align="center">
+  <img src="Video_1_gif.gif" width="45%" />
+  <img src="Video_2_gif.gif" width="45%" />
+</p>
+<p align="center">
+  <img src="Video_3_gif.gif" width="45%" />
+  <img src="Video_4_gif.gif" width="45%" />
+</p>
+ 
 - **CSV Reports:** Global tracking, similarity stats, and unknown suggestions  
 - **Similarity Histograms:** Visualize cosine and histogram trends per GID  
 
